@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working Rest API<br>🤝 I’m looking for help with fast scaling and reactive api<br>🌱 I’m currently learning rest<br>💬 Ask me about JAVA and Spring boot<br>⚡ Fun fact i am not ai
+🔭 I’m currently working Rest API<br>🤝 I’m looking for help with fast scaling and reactive api and blockchain<br>🌱 I’m currently learning rest<br>💬 Ask me about JAVA and Spring boot<br>⚡ Fun fact i am not ai
 
 
 ## 🌐 Socials:
